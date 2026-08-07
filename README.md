@@ -2,7 +2,7 @@
   <h1>🧩 Klinko Customer Pain Point Analyst</h1>
   <p><strong>Find recurring customer problems and identify which ones create demand.</strong></p>
   <p>
-    <a href="https://github.com/klinkoai/ai-market-research-skills">🧭 Explore all Klinko Skills</a> ·
+    <a href="https://github.com/klinkoai/ai-market-research-skills">⬇️ Install Klinko Skills</a> ·
     <a href="https://klinko.ai/en/">🌐 Klinko</a> ·
     <a href="https://home.klinko.ai">🚀 Start Market Research</a>
   </p>
@@ -10,9 +10,9 @@
 
 ## What is Klinko Customer Pain Point Analyst?
 
-Klinko Customer Pain Point Analyst is an AI agent Skill for turning broad customer complaints into structured problem themes. It helps teams distinguish symptoms from underlying needs, compare frequency and intensity, understand the situations in which pain appears, and prioritize problems that deserve product, positioning, service, or content responses.
+Klinko Customer Pain Point Analyst is an AI market research skill for turning broad customer complaints into structured problem themes. It helps teams distinguish symptoms from underlying needs, compare frequency and intensity, understand the situations in which pain appears, and prioritize problems that deserve product, positioning, service, or content responses.
 
-## What this AI agent Skill helps you do
+## What this skill helps you do
 
 - Organize customer problems into clear themes
 - Separate surface complaints from underlying needs
@@ -35,7 +35,7 @@ Klinko Customer Pain Point Analyst is an AI agent Skill for turning broad custom
 | Context and triggers | Understand when problems become urgent |
 | Priority assessment | Select problems for product or messaging work |
 
-## Example workflow
+## Example research process
 
 1. Describe the product, idea, audience, or market you want to understand.
 2. Add relevant public context such as geography, category, goals, or constraints.
@@ -53,7 +53,7 @@ Klinko Customer Pain Point Analyst is an AI agent Skill for turning broad custom
 - When and why the problem becomes costly or urgent
 - Implications for product priorities and positioning
 
-## Who this Skill is for
+## Who this skill is for
 
 - Product managers
 - Founders
@@ -65,13 +65,13 @@ Klinko Customer Pain Point Analyst is an AI agent Skill for turning broad custom
 - [Codex](https://openai.com/codex/)
 - [Claude Code](https://www.anthropic.com/claude-code)
 
-The installable Skill package and shared Klinko API integration are in development. This repository is the canonical public page for the Customer Pain Point Analyst workflow and will contain installation instructions when access opens.
+The workflow is complete and included in the single installable [Klinko Market Research Skill](https://github.com/klinkoai/ai-market-research-skills). This repository remains the canonical public documentation page for the Customer Pain Point Analyst workflow.
 
 ## Klinko access
 
-This Skill will use the shared Klinko public API and return decision-ready results in an agent-friendly format. One Klinko API key will work across the complete Skill collection.
+This skill uses the authenticated Klinko MCP runtime and returns decision-ready results in an agent-friendly format. Each user connects with their own Klinko API key; rotating it revokes the old key in both validated clients.
 
-## Related Klinko Skills
+## Related Klinko skills
 
 - [Buyer Persona Builder](https://github.com/klinkoai/klinko-buyer-persona-builder)
 - [Positioning Strategist](https://github.com/klinkoai/klinko-positioning-strategist)
@@ -79,8 +79,8 @@ This Skill will use the shared Klinko public API and return decision-ready resul
 
 ## About Klinko
 
-[Klinko](https://klinko.ai/en/) is an audience decision engine that helps teams understand communities, customer needs, market opportunities, positioning, and content direction. Explore the complete [Klinko AI Market Research Skills catalog](https://github.com/klinkoai/ai-market-research-skills).
+[Klinko](https://klinko.ai/en/) is an audience decision engine that helps teams understand communities, customer needs, market opportunities, positioning, and content direction. Explore the complete [Klinko AI Market Research Skills](https://github.com/klinkoai/ai-market-research-skills).
 
 ---
 
-Maintained by [Klinko](https://github.com/klinkoai) · Contact [business@klinko.ai](mailto:business@klinko.ai) · Last updated August 3, 2026
+Maintained by [Klinko](https://github.com/klinkoai) · Contact [business@klinko.ai](mailto:business@klinko.ai) · Last updated August 7, 2026
