@@ -3,7 +3,7 @@
   <p><strong>Find recurring customer problems and identify which ones create demand.</strong></p>
   <p>
     <a href="https://github.com/klinkoai/ai-market-research-skills">⬇️ Install Klinko Skills</a> ·
-    <a href="https://klinko.ai/en/">🌐 Klinko</a> ·
+    <a href="https://klinko.ai/en/skills/customer-pain-point-analyst/">🌐 Customer Pain Point Analyst guide</a> ·
     <a href="https://home.klinko.ai">🚀 Start Market Research</a>
   </p>
 </div>
@@ -116,7 +116,7 @@ This skill uses the authenticated Klinko MCP runtime and returns decision-ready 
 
 ## Related Klinko skills
 
-- [Buyer Persona Builder](https://github.com/klinkoai/klinko-buyer-persona-builder)
+- [Audience Finder](https://github.com/klinkoai/klinko-audience-finder)
 - [Positioning Strategist](https://github.com/klinkoai/klinko-positioning-strategist)
 - [Startup Idea Validator](https://github.com/klinkoai/klinko-startup-idea-validator)
 
@@ -126,8 +126,8 @@ This documentation is maintained by [Klinko Research](https://klinko.ai/en/about
 
 ## About Klinko
 
-[Klinko](https://klinko.ai/en/) is an audience decision engine that helps teams understand communities, customer needs, market opportunities, positioning, and content direction. Explore the complete [Klinko AI Market Research Skills](https://github.com/klinkoai/ai-market-research-skills).
+[Klinko](https://klinko.ai/en/) is an Audience Decision Engine that helps teams understand communities, customer needs, market opportunities, positioning, and content direction. Explore the [Customer Pain Point Analyst product guide](https://klinko.ai/en/skills/customer-pain-point-analyst/) or the complete [Klinko AI Market Research Skills](https://github.com/klinkoai/ai-market-research-skills).
 
 ---
 
-Maintained by [Klinko](https://github.com/klinkoai) · Contact [business@klinko.ai](mailto:business@klinko.ai) · Last updated August 7, 2026
+Maintained by [Klinko](https://github.com/klinkoai) · Contact [business@klinko.ai](mailto:business@klinko.ai) · Last updated August 8, 2026
