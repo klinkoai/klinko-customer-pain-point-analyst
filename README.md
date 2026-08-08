@@ -3,7 +3,7 @@
   <p><strong>Find recurring customer problems and identify which ones create demand.</strong></p>
   <p>
     <a href="https://github.com/klinkoai/ai-market-research-skills">⬇️ Install Klinko Skills</a> ·
-    <a href="https://klinko.ai/en/skills/customer-pain-point-analyst/">🌐 Skill page</a> ·
+    <a href="https://klinko.ai/en/">🌐 Klinko</a> ·
     <a href="https://home.klinko.ai">🚀 Start Market Research</a>
   </p>
 </div>
