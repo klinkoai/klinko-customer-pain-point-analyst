@@ -53,6 +53,49 @@ Klinko Customer Pain Point Analyst is an AI market research skill for turning br
 - When and why the problem becomes costly or urgent
 - Implications for product priorities and positioning
 
+## How to distinguish a pain point from a complaint
+
+Customer Pain Point Analyst looks for problems that can influence behavior. Negative language alone is not enough: a commercially meaningful pain point usually recurs in a defined situation, creates a consequence, and causes people to spend effort, money, time, or risk on a workaround.
+
+| Pain-point test | Stronger signal | Weaker signal |
+|---|---|---|
+| Recurrence | The same problem appears across relevant situations or people | A one-off incident |
+| Severity | The problem creates cost, delay, risk, lost opportunity, or emotional strain | Mild dissatisfaction or preference |
+| Context | The triggering situation and affected job are clear | A complaint detached from use context |
+| Workaround | People actively compensate with tools, manual effort, or process changes | No attempt to solve or avoid the issue |
+| Urgency | A deadline, failure, or consequence can motivate change | General interest in improvement |
+| Contradictory evidence | Some users do not experience the problem or prefer the status quo | Only confirming examples are considered |
+
+The output ranks pains, preserves customer language, identifies affected situations, and proposes questions that can test whether the leading problem creates real demand.
+
+## Pain-point analysis versus sentiment analysis
+
+Sentiment analysis classifies positive or negative expression. Pain-point analysis asks what happened, why it matters, what people do now, and whether the consequence can motivate change. A strongly negative review may concern a one-time service failure; a calm description of a costly weekly workaround may reveal a more valuable product opportunity.
+
+Audience Finder helps choose which group to study. Customer Pain Point Analyst investigates recurring problems inside that group. Startup Idea Validator uses the resulting problem evidence to test whether a proposed solution rests on defensible assumptions.
+
+## Evidence boundaries
+
+Online discussion can overrepresent unusually dissatisfied or engaged users. Frequency in collected sources is not population prevalence, and negative sentiment does not establish willingness to pay. The skill should preserve source context, separate observation from interpretation, include contradictory evidence, and avoid turning emotionally vivid anecdotes into unsupported market claims.
+
+## Customer Pain Point Analyst FAQ
+
+### What sources are useful for pain-point analysis?
+
+Reviews, community discussions, support-like questions, workaround descriptions, comparison conversations, and repeated search language can all help when their context is preserved. A source is useful because of what it reveals, not simply because it is public.
+
+### How many pain points should be prioritized?
+
+Prioritize the few that materially differ in situation, consequence, and required response. A long list of loosely related complaints makes product decisions harder rather than clearer.
+
+### Can the skill estimate how common a problem is?
+
+It can describe recurrence within available evidence and identify useful proxies. It cannot infer representative prevalence without a defensible sample and research design.
+
+### What should be validated after the analysis?
+
+Confirm the situation, consequence, and workaround with affected people. Then test whether the audience changes behavior when offered a credible alternative, rather than asking only whether the idea sounds helpful.
+
 ## Who this skill is for
 
 - Product managers
@@ -65,7 +108,7 @@ Klinko Customer Pain Point Analyst is an AI market research skill for turning br
 - [Codex](https://openai.com/codex/)
 - [Claude Code](https://www.anthropic.com/claude-code)
 
-The workflow is complete and included in the single installable [Klinko Market Research Skill](https://github.com/klinkoai/ai-market-research-skills). This repository remains the canonical public documentation page for the Customer Pain Point Analyst workflow.
+This Skill is complete and available through the [Klinko AI Market Research Skills repository](https://github.com/klinkoai/ai-market-research-skills). This repository is the public documentation page for Customer Pain Point Analyst.
 
 ## Klinko access
 
@@ -76,6 +119,10 @@ This skill uses the authenticated Klinko MCP runtime and returns decision-ready 
 - [Buyer Persona Builder](https://github.com/klinkoai/klinko-buyer-persona-builder)
 - [Positioning Strategist](https://github.com/klinkoai/klinko-positioning-strategist)
 - [Startup Idea Validator](https://github.com/klinkoai/klinko-startup-idea-validator)
+
+## Research and editorial standard
+
+This documentation is maintained by [Klinko Research](https://klinko.ai/en/about/). Recommendations separate observed evidence, interpretation, uncertainty, and the next validation step. Read the public [research methodology](https://klinko.ai/en/research-methodology/) for source handling, limitations, and editorial standards.
 
 ## About Klinko
 
